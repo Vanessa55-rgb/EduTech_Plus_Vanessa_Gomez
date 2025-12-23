@@ -1,7 +1,5 @@
 # Base de Datos Relacional **EduTech Plus**
 
-**Coder:** Vanessa Gómez
-
 ------------------------------------------------------------------------
 
 ## 1. Descripción del Modelo
