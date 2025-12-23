@@ -1,6 +1,7 @@
 # Base de Datos Relacional **EduTech Plus**
 
 **Coder:** Vanessa Gómez
+**MySql**
 
 ------------------------------------------------------------------------
 
@@ -30,7 +31,7 @@ normalización hasta la **Tercera Forma Normal (3FN)** para garantizar:
 
 ## 2. Descripción del Modelo
 
-![1766463649543](image/Proyecto_Final_EduTech_Plus/1766463649543.png)
+<img width="2076" height="1086" alt="mermaid-diagram-2025-12-22-231505" src="https://github.com/user-attachments/assets/0e3b8fdc-7d02-41d1-8791-b760727b0ee6" />
 
 ------------------------------------------------------------------------
 
