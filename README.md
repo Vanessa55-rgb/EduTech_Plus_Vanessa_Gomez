@@ -1,7 +1,6 @@
 # Base de Datos Relacional **EduTech Plus**
 
 **Coder:** Vanessa Gómez
-**MySql**
 
 ------------------------------------------------------------------------
 
